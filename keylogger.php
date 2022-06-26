@@ -17,6 +17,5 @@ if(isset($_REQUEST['c']) && !empty($_REQUEST['c']))
 }
 
 ?>
-
 </html>
 
