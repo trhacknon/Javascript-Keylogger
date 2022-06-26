@@ -15,5 +15,5 @@ Usage
 
 Credits for improvements
 ------------------------
-@blackout314
+@trhacknon
 
